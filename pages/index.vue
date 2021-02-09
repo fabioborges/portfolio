@@ -5,7 +5,7 @@
         Fabio Borges
       </h1>
       <p class="subtitle">
-        A seasoned <strong>Product Manager</strong> with <strong>10+ years' experience</strong> specifically leading the development of products and services. Helped one of his companies to expand from <strong>1 to 140+ employees</strong> and reach the <strong>top 3 in its market</strong> in Brazil. Later on, <strong>co-founded <a href="https://www.umbler.com">Umbler</a></strong>, a loved on-demand cloud hosting platform focused on developers and agencies, which has served <strong>250k+ users</strong> since its launch.
+        A seasoned <strong>Product Manager</strong> with <strong>16+ years' experience</strong> working on the development of successful products and services. Helped one of his companies to expand from <strong>1 to 140+ employees</strong> and reach the <strong>top 3 in its market</strong> in Brazil. Later on, <strong>co-founded <a href="https://www.umbler.com">Umbler</a></strong>, a fast-growing on-demand cloud hosting platform that has served <strong>250k+ users</strong> since its launch.
       </p>
 
       <div class="mt-9 flex gap-5">
