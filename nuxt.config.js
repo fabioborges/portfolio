@@ -52,10 +52,7 @@ export default {
   build: {},
 
   googleAnalytics: {
-    id: 'G-X8MRVMPY7F',
-    autoTracking: {
-      screenview: true
-    }
+    id: 'UA-189300616-1'
   },
 
   tailwindcss: {
