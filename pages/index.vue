@@ -1,13 +1,12 @@
 <template>
-  <div class="container">
-    <div class="summary">
-      <h1 class="font-sans text-5xl font-extrabold mb-6">
+  <div class="flex items-start 2xl:items-center justify-center text-center h-screen">
+    <div class="absolute object-center z-50 p-10 w-full xl:w-3/4 2xl:w-3/5">
+      <h1 class="font-sans text-4xl sm:text-5xl font-extrabold mb-6">
         Fabio Borges
       </h1>
-      <p class="subtitle">
+      <p class="font-sans text-xl sm:text-2xl 2xl:text-xl font-medium leading-relaxed">
         A seasoned <strong>Product Manager</strong> with <strong>16+ years' experience</strong> working on the development of successful products and services. Helped one of his companies to expand from <strong>1 to 140+ employees</strong> and reach the <strong>top 3 in its market</strong> in Brazil. Later on, <strong>co-founded <a href="https://www.umbler.com">Umbler</a></strong>, a fast-growing on-demand cloud hosting platform that has served <strong>250k+ users</strong> since its launch.
       </p>
-
       <div class="mt-9 flex gap-5">
         <div class="flex-grow" />
         <a
@@ -48,18 +47,18 @@
       </div>
     </div>
     <div class="images">
-      <div class="bg-lt" />
-      <div class="bg-lb" />
-      <div class="bg-rt" />
-      <div class="bg-rb" />
-      <div class="optimization" />
-      <div class="kanban" />
-      <div class="roadmap" />
-      <div class="canvas" />
-      <div class="chart" />
-      <div class="matrix" />
-      <div class="burndown" />
-      <div class="mountains" />
+      <div class="bg-lt hidden lg:block" />
+      <div class="bg-lb hidden lg:block" />
+      <div class="bg-rt hidden lg:block" />
+      <div class="bg-rb hidden lg:block" />
+      <div class="optimization hidden 2xl:block" />
+      <div class="kanban hidden 2xl:block" />
+      <div class="roadmap hidden 2xl:block" />
+      <div class="canvas hidden 2xl:block" />
+      <div class="chart hidden 2xl:block" />
+      <div class="matrix hidden 2xl:block" />
+      <div class="burndown hidden 2xl:block" />
+      <div class="mountains transform origin-bottom-right scale-50 sm:scale-75 md:scale-100" />
     </div>
   </div>
 </template>
@@ -69,33 +68,9 @@ export default {}
 </script>
 
 <style>
-/* Sample `apply` at-rules with Tailwind CSS
-.container {
-@apply min-h-screen flex justify-center items-center text-center mx-auto;
-}
-*/
 .button--socialmedia {
   @apply w-12 h-12 flex-grow-0;
 }
-
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.container .summary {
-  @apply absolute z-50;
-}
-
-.subtitle {
-  width: 860px;
-  @apply font-sans text-xl font-medium leading-relaxed;
-}
-
 .images div {
   @apply absolute z-0 bg-contain bg-no-repeat;
 }
