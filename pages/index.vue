@@ -1,7 +1,7 @@
 <template>
   <div class="flex items-start 2xl:items-center justify-center text-center h-screen">
     <div class="absolute object-center z-50 p-10 w-full xl:w-3/4 2xl:w-3/5">
-      <h1 class="font-sans text-4xl sm:text-5xl font-extrabold mb-6">
+      <h1 class="font-sans text-3xl sm:text-5xl font-extrabold mb-5 sm:mb-6">
         Fabio Borges
       </h1>
       <p class="font-sans text-base sm:text-2xl 2xl:text-xl font-medium leading-relaxed">
