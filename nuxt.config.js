@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Fabio Borges - Product Manager',
+    title: 'Fabio Borges - Founder @ Yay! Forms / Product Manager / Software Engineer / UI/UX Designer',
     htmlAttrs: {
       lang: 'en'
     },
