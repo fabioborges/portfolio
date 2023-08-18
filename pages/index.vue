@@ -5,7 +5,7 @@
         Fabio Borges
       </h1>
       <p class="font-sans text-xl sm:text-2xl 2xl:text-xl font-medium leading-relaxed">
-        A seasoned <strong>Product Manager</strong> with <strong>16+ years' experience</strong> working on the development of successful products and services. Helped one of his companies to expand from <strong>1 to 140+ employees</strong> and reach the <strong>top 3 in its market</strong> in Brazil. Later on, <strong>co-founded <a href="https://www.umbler.com">Umbler</a></strong>, a fast-growing on-demand cloud hosting platform that has served <strong>250k+ users</strong> since its launch.
+         A seasoned professional with 20+ years of experience working with <strong>Product Management, Software Development, and UX/UI Designing</strong> in SaaS B2B companies. Currently is Founder and co-CEO of <a href="https://yayforms.com">Yay! Forms</a>, an AI-powered form and survey builder. Helped one of his companies to expand from <strong>1 to 140+ employees</strong> and reach the <strong>top 3 in its market</strong> in Brazil. Later on, <strong>co-founded <a href="https://www.umbler.com/br">Umbler</a></strong>, a fast-growing on-demand cloud hosting platform that has served <strong>250k+ users</strong> since its launch.
       </p>
       <div class="mt-9 flex gap-5">
         <div class="flex-grow" />
